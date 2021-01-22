@@ -1,16 +1,16 @@
 ## Hi there 👋 I'm Sarthak Verma
 
-I'm a Front End Dev man_technologist 👨‍💻 + UI/UX designer 🖌.
+I'm a Front End Dev 👨‍💻 + UI/UX designer 🖌.
 
 I'm newly in ❤️ with React. Exploring new technologies & Networking with people.
 
 - 💪 I’m currently working on a [DropBook](https://twitter.com/DropBook_), an ed-tech initiative.
-- 🌱 I’m currently learning React.js, Redux, Node.
-- 📒 I'm documenting my Journey and learninngs on my [blog](https://sarthakblogs.netlify.app)
+- 🌱 I’m currently learning React.js, Redux and Node.
+- 📒 I'm documenting my Journey and learnings on my [Personal Blog](https://sarthakblogs.netlify.app)
 - 📫 Fastest way to reach me? DM me on [Twitter](https://twitter.com/srthkv)
 - 🤝 I’m looking to collaborate on Projects that are innovative, helpful and save user's time.
-    - 💡 If you've ideas, reach out to me.
-- ⚡ Fun fact: I love reading and writing, and planning to publish a short story collection book in 2022
+    - 💡 If you've ideas, reach out to me!
+- ⚡ Fun fact: I love Reading and Writing; planning to publish a short story collection book in 2022.
 
 ### Web Development Stack
 <div style="display:flex">
