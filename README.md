@@ -4,13 +4,20 @@ I'm a Front End Dev man_technologist 👨‍💻 + UI/UX designer 🖌.
 
 I'm newly in ❤️ with React. Exploring new technologies & Networking with people.
 
-- 💪 I’m currently working on a [DropBook](https://twitter.com/DropBook_), an ed-tech initiative.
-- 🌱 I’m currently learning React.js, Redux, Node.
-- 📒 I'm documenting my Journey and learninngs on my [blog](https://sarthakblogs.netlify.app)
-- 📫 Fastest way to reach me? DM me on [Twitter](https://twitter.com/srthkv)
-- 🤝 I’m looking to collaborate on Projects that are innovative, helpful and save user's time.
+- 💪 I’m working on [DropBook](https://twitter.com/DropBook_), an ed-tech startup.
+
+- 🌱 Currently learning React.js, Gatsby, Node.
+
+- ✨ Working on my UI/UX and Creative writing skills.
+
+- 📒 Documenting my Journey and learning on my [Personal blog](https://sarthakblogs.netlify.app).
+
+- 📫 Fastest way to reach me? DM me on [Twitter](https://twitter.com/srthkv).
+
+- 🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
     - 💡 If you've ideas, reach out to me.
-- ⚡ Fun fact: I love reading and writing, and planning to publish a short story collection book in 2022
+
+- ⚡ Fun fact: I love *reading* and *writing*. Planning to publish a Book of Short Stories collection in 2022.
 
 ### Web Development Stack
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,5 +35,4 @@ I'm newly in ❤️ with React. Exploring new technologies & Networking with peo
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 
 ### Social
-![Twitter Follow](https://img.shields.io/twitter/follow/srthkv?label=Sarthak%20Verma&style=social)        
-
+![Twitter Follow](https://img.shields.io/twitter/follow/srthkv?label=Sarthak%20Verma&style=social)
