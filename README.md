@@ -1,26 +1,23 @@
 ## Hi there 👋 I'm Sarthak Verma
 
-I'm a Front End Dev man_technologist 👨‍💻 + UI/UX designer 🖌.
+I'm a Web Developer 👨‍💻 + UI/UX designer 🖌
 
 I'm newly in ❤️ with React. Also, exploring new Tech & Networking with people.
 
-- 💪 I’m working on [TweepsBook](https://twitter.com/tweepsbookcom). It's a tool for power twitter users to manage their bookmarks. <br>
-<a href="https://www.producthunt.com/posts/tweepsbook?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tweepsbook" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=290169&theme=light" alt="TweepsBook - Bookmark & organize your favorite tweets with different tags | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+🔨 I’ve built [TweepsBook](https://tweepsbook.com). It's a tool for power twitter users to manage their bookmarks.
 
+🌱 Currently learning TypeScript, Node.js + exploring Blockchain.
 
+✨ Working on my UI/UX and Creative writing skills, I love designing interfaces with great UX.
 
-- 🌱 Currently learning React, Node and exploring the Blockchain space.
+📒 Documenting my Journey and learning on my Internet Garden: [Inquisive](https://inquisitive.netlify.app).
 
-- ✨ Working on my UI/UX and Creative writing skills, I love designing interfaces with great UX.
+✉️ <b>Fastest way to reach me? DM on [Twitter](https://twitter.com/srthkv) or Mail at sarthakvdev@gmail.com</b>
 
-- 📒 Documenting my Journey and learning on my [Internet Garden](https://inquisitive.netlify.app).
+🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
+   💡 If you've ideas, reach out to me.
 
-- 📫 Fastest way to reach me? DM me on [Twitter](https://twitter.com/srthkv).
-
-- 🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
-    - 💡 If you've ideas, reach out to me.
-
-- ⚡ Fun fact: I love *reading* and *writing*. Planning to publish a Book of Short Stories collection in 2022.
+> ⚡ Fun fact: I love *reading* and *writing*. Planning to publish a Book of Short Stories collection in 2022.
 
 ### Web Development Stack
 <div style="display:inline-block">
@@ -34,6 +31,7 @@ I'm newly in ❤️ with React. Also, exploring new Tech & Networking with peopl
 ### Languages
 <div style="display:inline-block">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
@@ -42,6 +40,15 @@ I'm newly in ❤️ with React. Also, exploring new Tech & Networking with peopl
             
 ### Social
 ![Twitter Follow](https://img.shields.io/twitter/follow/srthkv?label=Sarthak%20Verma&style=social)
+
+### Products
+<table>
+    <tr>
+        <td>TweepsBook</td>
+        <td><a href="https://www.producthunt.com/posts/tweepsbook?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tweepsbook" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=290169&theme=light" alt="TweepsBook - Bookmark & organize your favorite tweets with different tags | Product Hunt" style="width: 180; height: 45px;" width="180" height="45" /></a></td>
+    </tr>
+</table>
+
 
 ---
 Imported the Github Badges from [here](https://github.com/Ileriayo/markdown-badges)
