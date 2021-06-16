@@ -1,18 +1,14 @@
-## Hi there 👋 I'm Sarthak Verma
+![Banner](./banner.png)
 
-I'm a Web Developer 👨‍💻 + UI/UX designer 🖌
-
-I'm newly in ❤️ with React. Also, exploring new Tech & Networking with people.
-
-🔨 I’ve built [TweepsBook](https://tweepsbook.com). It's a tool for power twitter users to manage their bookmarks.
+I love building products.
 
 🌱 Currently learning TypeScript, Node.js + exploring Blockchain.
 
-✨ Working on my UI/UX and Creative writing skills, I love designing interfaces with great UX.
+✨ Working on my UI/UX and Creative writing skills, I love designing Interfaces with great UX.
 
 📒 Documenting my Journey and learning on my Internet Garden: [Inquisive](https://inquisitive.netlify.app).
 
-✉️ <b>Fastest way to reach me? DM on [Twitter](https://twitter.com/srthkv) or Mail at sarthakvdev@gmail.com</b>
+✉️ <b>Fastest way to reach me? [DM on Twitter](https://twitter.com/srthkv) or Mail at sarthakvdev@gmail.com</b>
 
 🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
    💡 If you've ideas, reach out to me.
