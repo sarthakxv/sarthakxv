@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-I love building products.
+##### I love building products.
 
 🌱 Currently learning TypeScript, Node.js + exploring Blockchain.
 
@@ -47,4 +47,6 @@ I love building products.
 
 
 ---
+If you want to make your own cover image similar to mine 👆, use [Cover Image Generator](http://cover-image-generator.netlify.com/)
+
 Imported the Github Badges from [here](https://github.com/Ileriayo/markdown-badges)
