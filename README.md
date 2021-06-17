@@ -1,14 +1,14 @@
-![Banner](./banner.png)
+![Banner](./images/banner.png)
 
 ##### I love building products.
 
-🌱 Currently learning TypeScript, Node.js + exploring Blockchain.
+🌱 Currently learning React, Redux, Node.js + exploring Blockchain.
 
-✨ Working on my UI/UX and Creative writing skills, I love designing Interfaces with great UX.
+✨ Working on my UI/UX and Creative writing skills, I love Designing Interfaces with great UX.
 
 📒 Documenting my Journey and learning on my Internet Garden: [Inquisive](https://inquisitive.netlify.app).
 
-✉️ <b>Fastest way to reach me? [DM on Twitter](https://twitter.com/srthkv) or Mail at sarthakvdev@gmail.com</b>
+✉️ <b>Fastest way to reach me? [DM on Twitter](https://twitter.com/srthkv) or Mail at sarthakv@protonmail.com</b>
 
 🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
    💡 If you've ideas, reach out to me.
@@ -20,14 +20,17 @@
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
+    <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
 ### Languages
 <div style="display:inline-block">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> -->
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
