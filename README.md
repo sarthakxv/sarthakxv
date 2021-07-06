@@ -2,18 +2,19 @@
 
 ##### I love building products.
 
-🌱 Currently learning React, Redux, Node.js + exploring Blockchain.
+🌱 Currently learning React, Redux, Solidity, Chakra UI. Exploring Blockchain.
 
-✨ Working on my UI/UX and Creative writing skills, I love Designing Interfaces with great UX.
+✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
 📒 Documenting my Journey and learning on my Internet Garden: [Inquisive](https://inquisitive.netlify.app).
 
-✉️ <b>Fastest way to reach me? [DM on Twitter](https://twitter.com/srthkv) or Mail at sarthakv@protonmail.com</b>
+✉️ <b>Fastest way to reach me? [DM on Twitter](https://twitter.com/srthkv) or email at sarthakv@protonmail.com</b>
 
-🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
-   💡 If you've ideas, reach out to me.
+<br>
 
 > ⚡ Fun fact: I love *reading* and *writing*. Planning to publish a Book of Short Stories collection in 2022.
+
+<br>
 
 ### Web Development Stack
 <div style="display:inline-block">
@@ -50,6 +51,6 @@
 
 
 ---
-If you want to make your own cover image similar to mine 👆, use [Cover Image Generator](http://cover-image-generator.netlify.com/)
+If you want to make your own cover image similar to mine 👆, use <a href="http://cover-image-generator.netlify.com/" target="_blank">Cover Image Generator</a>.
 
 Imported the Github Badges from [here](https://github.com/Ileriayo/markdown-badges)
