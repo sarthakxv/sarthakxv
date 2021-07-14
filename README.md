@@ -2,7 +2,7 @@
 
 ##### I love building products.
 
-🌱 Currently learning React, Redux, Solidity, Chakra UI. Exploring Blockchain.
+🌱 Currently learning Next, Redux, Solidity, Chakra UI. Exploring Blockchain.
 
 ✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
@@ -14,8 +14,8 @@
 
 > ⚡ Fun fact: I love *reading* and *writing*. Planning to publish a Book of Short Stories collection in 2022.
 
+![Github Views](https://komarev.com/ghpvc/?username=sarthakvdev&style=flat-square&color=3E5FF8)
 <br>
-
 ### Web Development Stack
 <div style="display:inline-block">
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
