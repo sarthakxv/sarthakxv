@@ -8,6 +8,8 @@
 
 📒 Documenting my Journey and learning on my Internet Garden: [Inquisive](https://inquisitive.netlify.app).
 
+🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
+
 ✉️ <b>Fastest way to reach me? [DM on Twitter](https://twitter.com/srthkv) or email at sarthakvdev@gmail.com</b>
 
 <br>
