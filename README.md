@@ -24,7 +24,7 @@
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="ChakraUI" src="https://img.shields.io/badge/chakra%20ui-61C8C8?style=for-the-badge&logo=chakraui&logoColor=white"/>
     <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
     <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
@@ -32,20 +32,23 @@
 ### Languages
 <div style="display:inline-block">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> -->
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="solidity" src="https://img.shields.io/badge/Solidity-grey?style=for-the-badge&logo=solidity"/>
 </div>
 
 ### Bonus Tools
 <div style="display:inline-block">
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white"/>
+    
 </div>
             
-### Social
-[![Twitter Follow](https://img.shields.io/twitter/follow/srthkv?label=Sarthak%20Verma&style=social)](https://twitter.com/srthkv)
-<a href="https://t.me/lightbing" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakv/)
+[![Twitter](https://img.shields.io/badge/<srthkv>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/srthkv)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lightbing)
+<a href="mailto:sarthakvdev@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 ### Products
@@ -54,8 +57,10 @@
         <td>TweepsBook</td>
         <td><a href="https://www.producthunt.com/posts/tweepsbook?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tweepsbook" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=290169&theme=light" alt="TweepsBook - Bookmark & organize your favorite tweets with different tags | Product Hunt" style="width: 180; height: 45px;" width="180" height="45" /></a></td>
     </tr>
+    <tr>
+        <td>D.A.M.P.</td>
+        <td><a href="https://devfolio.co/submissions/damp-dd4c" target="_blank"><img alt="DAMP Logo" src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/c9ec4910652e474b87915718343b68e6/projects/c4fbcbd6c9844a19b55f5956b0719df4/3d4e29e2-1841-4636-bade-07058bf1fdc9.png"  style="width: 250px; height: 54px;" width="160" height="60" /></a></td>
 </table>
-
 
 ---
 If you want to make your own cover image similar to mine 👆, use <a href="http://cover-image-generator.netlify.com/" target="_blank">Cover Image Generator</a>.
