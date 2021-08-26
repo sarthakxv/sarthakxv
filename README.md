@@ -2,7 +2,7 @@
 
 ##### I love building products.
 
-🌱 Currently learning Next, Redux, Solidity, Chakra UI. Exploring Blockchain.
+🌱 Currently learning Next.js, Redux-Saga, Solidity. Exploring Blockchain.
 
 ✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
