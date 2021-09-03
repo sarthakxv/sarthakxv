@@ -1,3 +1,6 @@
+[![Twitter: Sarthak](https://img.shields.io/twitter/follow/srthkv?style=social)](https://twitter.com/srthkv) 
+[![GitHub Rohan](https://img.shields.io/github/followers/sarthakvdev?label=follow&style=social)](https://github.com/sarthakvdev)
+
 ![Banner](./images/banner.png)
 
 ##### I love building products.
@@ -13,8 +16,6 @@
 ✉️ <b>Fastest way to reach me? [DM on Twitter](https://twitter.com/srthkv) or email at sarthakvdev@gmail.com</b>
 
 <br>
-
-> ⚡ Fun fact: I love *reading* and *writing*. Planning to publish a Book of Short Stories collection in 2022.
 
 ![Github Views](https://komarev.com/ghpvc/?username=sarthakvdev&style=flat-square&color=3E5FF8)
 <br>
@@ -40,13 +41,10 @@
 <div style="display:inline-block">
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Figma" src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white"/>
-    
 </div>
             
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakv/)
-[![Twitter](https://img.shields.io/badge/<srthkv>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/srthkv)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lightbing)
 <a href="mailto:sarthakvdev@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
