@@ -5,11 +5,11 @@
 
 ##### I love building products.
 
-🌱 Currently learning Next.js, Redux-Saga, Solidity. Exploring Blockchain.
+🌱 Currently learning Next.js, Node/Express.js, SQL and Redux-Saga, Solidity. Exploring Blockchain.
 
 ✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
-📒 Documenting my Journey and learning on my Internet Garden: [Inquisive](https://inquisitive.netlify.app).
+📒 Documenting my Journey and learning on my Internet Garden - [Sarthak Verma](https://sarthakverma.vercel.app)
 
 🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
 
@@ -26,6 +26,7 @@
     <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="ChakraUI" src="https://img.shields.io/badge/chakra%20ui-61C8C8?style=for-the-badge&logo=chakraui&logoColor=white"/>
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
     <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
@@ -49,15 +50,16 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-### Products
+### Products Shipped
 <table>
+    <tr>
+        <td>D.A.M.P.</td>
+        <td><a href="https://devfolio.co/submissions/damp-dd4c" target="_blank"><img alt="DAMP Logo" src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/c9ec4910652e474b87915718343b68e6/projects/c4fbcbd6c9844a19b55f5956b0719df4/3d4e29e2-1841-4636-bade-07058bf1fdc9.png"  style="width: 135px; height: 50px;" width="160" height="60" /></a></td>
+    </tr>
     <tr>
         <td>TweepsBook</td>
         <td><a href="https://www.producthunt.com/posts/tweepsbook?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tweepsbook" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=290169&theme=light" alt="TweepsBook - Bookmark & organize your favorite tweets with different tags | Product Hunt" style="width: 180; height: 45px;" width="180" height="45" /></a></td>
     </tr>
-    <tr>
-        <td>D.A.M.P.</td>
-        <td><a href="https://devfolio.co/submissions/damp-dd4c" target="_blank"><img alt="DAMP Logo" src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/c9ec4910652e474b87915718343b68e6/projects/c4fbcbd6c9844a19b55f5956b0719df4/3d4e29e2-1841-4636-bade-07058bf1fdc9.png"  style="width: 250px; height: 54px;" width="160" height="60" /></a></td>
 </table>
 
 ---
