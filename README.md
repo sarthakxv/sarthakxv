@@ -5,7 +5,7 @@
 
 ##### I love building products.
 
-🌱 Currently learning Next.js, Node/Express.js, SQL and Redux-Saga, Solidity. Exploring Blockchain.
+🌱 Currently learning Next.js, Node/Express.js, SQL, Redux-Saga and Solidity. Exploring Web3.
 
 ✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
