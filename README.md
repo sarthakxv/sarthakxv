@@ -3,13 +3,13 @@
 
 ![Banner](./images/banner.png)
 
-##### I love building products.
+##### `I love building products.`
 
-🌱 Currently learning Next.js, Node/Express.js, SQL, Redux-Saga and Solidity. Exploring Web3.
+🌱 Currently learning React Native, Node/Express, SQL, Redux-Saga and Solidity - Exploring Web3.
 
 ✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
-📒 Documenting my Journey and learning on my Internet Garden - [Sarthak Verma](https://sarthakverma.vercel.app)
+📒 Documenting my Journey and learning here - [Sarthak Verma](https://sarthakverma.vercel.app)
 
 🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
 
@@ -29,6 +29,11 @@
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
     <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+</div>
+
+### App Development Stack *
+<div style="display:inline-block">
+    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
 ### Languages
@@ -66,3 +71,5 @@
 If you want to make your own cover image similar to mine 👆, use <a href="http://cover-image-generator.netlify.com/" target="_blank">Cover Image Generator</a>.
 
 Imported the Github Badges from [here](https://github.com/Ileriayo/markdown-badges)
+
+> \* = currently learning/building
