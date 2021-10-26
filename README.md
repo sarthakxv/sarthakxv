@@ -1,4 +1,4 @@
-[![Twitter: Sarthak](https://img.shields.io/twitter/follow/srthkv?style=social)](https://twitter.com/0xSarthak)
+[![Twitter: sarthak](https://img.shields.io/twitter/follow/0xSarthak?style=social)](https://twitter.com/0xSarthak)
 [![GitHub Sarthak](https://img.shields.io/github/followers/sarthakvdev?label=follow&style=social)](https://github.com/sarthakvdev)
 
 ![Banner](./images/banner.png)
