@@ -1,11 +1,11 @@
-[![Twitter: Sarthak](https://img.shields.io/twitter/follow/srthkv?style=social)](https://twitter.com/srthkv) 
-[![GitHub Rohan](https://img.shields.io/github/followers/sarthakvdev?label=follow&style=social)](https://github.com/sarthakvdev)
+[![Twitter: Sarthak](https://img.shields.io/twitter/follow/srthkv?style=social)](https://twitter.com/0xSarthak)
+[![GitHub Sarthak](https://img.shields.io/github/followers/sarthakvdev?label=follow&style=social)](https://github.com/sarthakvdev)
 
 ![Banner](./images/banner.png)
 
 ##### `I love building products.`
 
-🌱 Currently learning React Native, Node/Express, SQL, Redux-Saga and Solidity - Exploring Web3.
+🌱 Currently learning React Native, Node/Express, SQL and Solidity. Exploring Web3.
 
 ✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
