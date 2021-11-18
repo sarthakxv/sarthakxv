@@ -9,7 +9,7 @@
 
 ✨ Working on my UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
-📒 Documenting my Journey and learning at [my personal internet corder](https://sarthakverma.vercel.app).
+📒 Documenting my Journey and learning at [my personal internet corner](https://sarthakverma.vercel.app).
 
 🦾 Build and Ship FTW!
 
