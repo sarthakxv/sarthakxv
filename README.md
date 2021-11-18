@@ -5,15 +5,15 @@
 
 ##### `I love building products.`
 
-🌱 Currently learning React Native, Node/Express, SQL and Solidity. Exploring Web3.
+🌱 Currently learning Next, Node/Express, Databases and Solidity. Exploring Web3.
 
-✨ Working on my UI/UX and Creative writing skills. I love Designing Interfaces with a great UX.
+✨ Working on my UX and Creative writing skills. I love Designing Interfaces with a great UX.
 
-📒 Documenting my Journey and learning here - [Sarthak Verma](https://sarthakverma.vercel.app)
+📒 Documenting my Journey and learning at [my personal internet corder](https://sarthakverma.vercel.app).
 
-🤝 I’m looking to collaborate on Projects that are Challanging and Innovative.
+🦾 Build and Ship FTW!
 
-✉️ <b>Fastest way to reach me? [DM on LinkedIn](https://linkedin.com/in/sarthakv) or email at sarthakvdev@gmail.com</b>
+📩 Fastest way to reach me? Shoot DM on [LinkedIn](https://linkedin.com/in/sarthakv), [Twitter](https://twitter.com/0xSarthak) or [email](mailto:sarthakvdev@gmail.com)
 
 <br>
 
@@ -23,11 +23,11 @@
 
 <br>
 
-### Web Development Stack
+### Development Stack
 <div style="display:inline-block">
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="ChakraUI" src="https://img.shields.io/badge/chakra%20ui-61C8C8?style=for-the-badge&logo=chakraui&logoColor=white"/>
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -55,4 +55,4 @@
 
 ---
 
-Imported the [Github Badges](https://github.com/Ileriayo/markdown-badges)
+Imported the badges from [Github Badges](https://github.com/Ileriayo/markdown-badges)
