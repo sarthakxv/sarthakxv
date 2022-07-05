@@ -4,10 +4,6 @@
 [![GitHub Sarthak](https://img.shields.io/github/followers/sarthakvdev?label=follow&style=social)](https://github.com/sarthakvdev)
 ![Github Views](https://komarev.com/ghpvc/?username=sarthakvdev&style=flat-square&color=3E5FF8)
 
-```bash
-I love building products
-```
-
 ```I love building products```
 
 ---
