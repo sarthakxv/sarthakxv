@@ -9,9 +9,3 @@
 Visit [sarthak.wtf](https://sarthak.wtf) to learn about my latest ventures and tinkerings and read some cool stuff.
 
 Fastest way to reach me? Shoot DM on [X](https://twitter.com/0xSarthak) or [Telegram](https://t.me/sarthakxv). Happy to help or connect.
-
----
-
-<br>
-
-[![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakxv)](https://github.com/anuraghazra/github-readme-stats)
