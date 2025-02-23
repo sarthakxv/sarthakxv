@@ -6,6 +6,6 @@
 
 ---
 
-Visit [sarthak.wtf](https://sarthak.wtf) to learn about my latest ventures and tinkerings and read some cool stuff.
+Visit [sarthak.wtf](https://sarthak.wtf) (not updated since 2023) to learn about my latest ventures and tinkerings and read some cool stuff.
 
 Fastest way to reach me? Shoot DM on [X](https://twitter.com/0xSarthak) or [Telegram](https://t.me/sarthakxv). Happy to help or connect.
