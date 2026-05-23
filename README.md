@@ -1,4 +1,4 @@
-### You can just do things!
+### you can just do things!
 
 [![Twitter: sarthak](https://img.shields.io/twitter/follow/0xSarthak?style=social)](https://twitter.com/0xSarthak)
 [![GitHub Sarthak](https://img.shields.io/github/followers/sarthakxv?label=follow&style=social)](https://github.com/sarthakxv)
@@ -6,6 +6,6 @@
 
 ---
 
-Visit [sarthak.wtf](https://sarthak.wtf) (yet to update, soon!) to learn about my latest ventures and tinkerings and read come cool stuff.
+visit [sarthakxv.com](https://sarthakxv.com) to learn about my latest ventures and read come cool stuff.
 
-Fastest way to reach me? Shoot DM on [X](https://twitter.com/0xSarthak) or [Telegram](https://t.me/sarthakxv). Happy to help or connect.
+fastest way to reach me? shoot a dm on [x](https://twitter.com/0xSarthak) or [telegram](https://t.me/sarthakxv). happy to help or connect.
